@@ -1,0 +1,168 @@
+.logo{
+    height: 10vh;
+    width: 10vw;
+    padding: 5px;
+}
+#but{
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+#but:hover{
+    color:rgb(46, 226, 43);
+}
+#but1{
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.bgimg{
+    background-color: white;
+
+    border-top:50px ;
+    border-bottom: 50px;
+
+
+}
+.imgpng{
+    background-color:white;
+    width: 150px;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+    height: 145px;
+    text-align: center;
+}
+.head{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+.para{
+    font-weight: 600;
+    text-align: center;
+
+}
+.heading{
+    color: rgb(92, 226, 43);
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.sentence{
+    margin: 30px;  
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: 600;
+    text-align: center; 
+}
+.bgimg3{
+    background-color: white;
+}
+
+.cardhead4:hover{
+    color:rgb(255, 0, 212);
+}
+.expe:hover{
+    color: blue;
+}
+.exploreheading{
+    color: rgb(0, 255, 123);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;    
+}
+.explorecards{
+    border-radius: 16px;
+    color: black;
+}
+.explorecards:hover{
+    color:darkolivegreen;
+}
+.exploreclass{
+    border-radius: 16px;
+
+}
+.cardhead4{
+    color:#323f4b;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-top: 24px; 
+
+}
+.explorelink{
+    color: rgb(255, 0, 0);
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.paybgimg{
+    background-color: white;
+}
+.paymentimg{
+    width: 350px;
+}
+.payhead{
+    color: #183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+.paypara{
+    color: #5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.cstbutton{
+    color: white;
+    background-color: #c90297;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.cstbutton:hover{background-color: rgb(0, 139, 44);}
+.paycardimg{
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+#contact{
+    background-color:brown;
+    padding-bottom: 4rem;
+}
+.socialicons{
+    font-size: 40px;
+    cursor: pointer;
+}
+#icenter1{
+    text-align: center;
+}
+.fa-brands{
+    color: white;
+}
+.fa-square-facebook,.fa-instagram,.fa-linkedin,.fa-youtube{
+    margin: 40px;
+}
+.fa-youtube:hover{
+    color: red;
+}
+.fa-square-facebook:hover,.fa-linkedin:hover{
+    color: blue;
+}
+.fa-instagram:hover{
+    color: rgb(243, 16, 175);
+}
+
+
